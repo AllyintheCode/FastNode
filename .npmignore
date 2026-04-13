@@ -1,0 +1,22 @@
+# Source and examples
+src/
+example/
+test/
+
+# Config files
+tsconfig.json
+tsconfig.dev.json
+
+# Temporary files
+test.js
+test_v2.js
+test.ps1
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore environment variables
+.env
+.env.local
