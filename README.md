@@ -24,13 +24,13 @@ Building APIs in Express often requires repetitive manual work:
 ## 📦 Installation
 
 ```bash
-npm install fastnode-zod zod express swagger-ui-express
+npm install @allyinthecode/fastnode zod express swagger-ui-express
 ```
 
 ## 🚀 Quick Start
 
 ```typescript
-import { createApp, z } from "fastnode-zod";
+import { createApp, z } from "@allyinthecode/fastnode";
 
 const app = createApp({
   title: "My API",

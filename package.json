@@ -1,5 +1,5 @@
 {
-  "name": "fastnode-zod",
+  "name": "@allyinthecode/fastnode",
   "version": "2.0.0",
   "description": "FastAPI-inspired Express framework with automatic OpenAPI/Swagger docs and Zod validation",
   "main": "dist/index.js",
